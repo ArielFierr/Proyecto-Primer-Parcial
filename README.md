@@ -31,6 +31,9 @@ Cables de conexión
 
 Batería de 9V
 
+Circuito:
+
+![image](https://user-images.githubusercontent.com/116833736/205118627-4d2c9c4a-5b90-436a-8ada-a439d746d85e.png)
 
 Procedimiento
 
