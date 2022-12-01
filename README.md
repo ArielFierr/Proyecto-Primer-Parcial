@@ -61,6 +61,13 @@ Se puede observar que en el circuito armado se encuentra conectado la batería e
 
 Cuando conectamos el circuito a la fuente de energía lo único que resta hacer es que los cables entren en contacto para que de esa manera los leds se enciendan de acuerdo a lo que se necesita, por eso se mencionó anteriormente que el agua funciona como el transporte de la corriente, porque el cable que va a ir siempre en contacto con el agua sería el que emite la corriente y cuando el agua vaya subiendo y este vaya topando cada uno de los cables de los leds que son los receptores van a brindar la suficiente energía para que cada led funcione.
 
+Imagenes del circuito armado:
+
+![image](https://user-images.githubusercontent.com/116833736/205114167-b35a1147-2ca3-479e-a575-efdee667232c.png)
+![image](https://user-images.githubusercontent.com/116833736/205114229-1412c608-fe17-450d-a231-735e37fb5dba.png)
+![image](https://user-images.githubusercontent.com/116833736/205114410-e201f238-daca-466e-967a-1786645da4a7.png)
+
+
 Video:
 
 https://youtu.be/tNDV-SMiQAs
